@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Emaan1022/Emaan1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Muqaddas Rasheed - Passionate Software Engineer from Pakistan 💻
 
-Here are some ideas to get you started:
+🌱 I'm **Muqaddas Rasheed** – A driven **Software Engineer** specializing in **Full Stack Web Development** and **Mobile App Development**. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With expertise in modern technologies such as:
+- **React.js**, **React Native**, **Node.js**, **Express.js**
+- **MongoDB**, **Firebase**, **Next.js**, **Angular**, and more
+
+I build intuitive, scalable, and high-performance applications that solve real-world problems and enhance user experiences.
+
+---
+
+In **DevOps**, I work with tools like:
+- **Git** 🐙, **Docker** 🐳, and **Kubernetes** ☸️
+- Leveraging cloud platforms like **AWS** ☁️ and **Azure** 🔵 for efficient deployment and scaling.
+
+---
+
+🎥 I also create content on **YouTube**, where I share insightful programming tutorials and tech tips. Whether you're just starting out or looking to level up your coding skills, my channel provides valuable knowledge to help you grow. ⚡
+
+---
+
+Let’s collaborate and build something amazing! 🌍
