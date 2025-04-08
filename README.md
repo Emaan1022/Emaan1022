@@ -11,30 +11,19 @@
 <div align="center">  
 🌱 I'm Muqaddas Rasheed – An innovative Software Engineer, specializing in Full Stack Web & Mobile Application Development. 🚀
 
-With expertise in cutting-edge technologies like HTML, CSS, JavaScript, React.js, React Native, Node.js, Angular 19, Express.js, MongoDB, and more, I craft sleek, high-performing web and mobile applications tailored to user needs.
+With expertise in cutting-edge technologies like HTML, CSS, JavaScript, React.js, React Native, Node.js, Angular 19, MongoDB, and more, I craft sleek, high-performing web and mobile applications tailored to user needs.
 
  </div>
 
 ---
+<h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,vscode,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
+    <img src="https://skillicons.dev/icons?i=css,postgresql,supabase,html,firebase,mongodb,nextjs,mysql,php,laravel" /><br>
+</div>
 
-### 🛠 **Technologies I Love**:
-- **Frontend**: **React.js**, **React Native**, **Next.js**, **Angular**
-- **Backend**: **Node.js**, **Express.js**
-- **Database**: **MongoDB**, **Firebase**
-- **DevOps Tools**: **Docker** 🐳, **Kubernetes** ☸️
-- **Cloud Platforms**: **AWS** ☁️, **Azure** 🔵
-
----
-
-### 🚀 **What Drives Me**:
-- I'm passionate about solving complex problems and building **user-centric applications**.
-- Currently diving deep into **DevOps** and **Cloud Engineering** to enhance deployment pipelines and optimize workflows.
-
----
-
-### 🎥 **Tech Content Creator**:
-I also share my journey on **YouTube**, where I offer **beginner-friendly programming tutorials** and **tech tips** to help others unlock their potential in the tech world. 💡  
-Join me on my channel, **The Techzeen**, where I teach in **Urdu/Hindi**, breaking down complex concepts in simple ways.
+<br/>
 
 ---
 
@@ -47,9 +36,10 @@ Feel free to reach out or explore my repositories below. Let’s make something 
 ---
 
 ## 📫 **Reach Me**:
-- **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/muqaddas-rasheed-480b89247/)](#)
+- **LinkedIn**: [Muqaddas Rasheed](https://www.linkedin.com/in/muqaddas-rasheed-480b89247/)
 - **Email**: [muqaddasrasheedahmad@gmail.com](mailto:your-email@example.com)
 
 ---
 
-Thanks for stopping by! 🚀 Let's connect and create something extraordinary together! 🎉
+Thanks for stopping by! 🚀 
+Let's connect and create something extraordinary together! 🎉
