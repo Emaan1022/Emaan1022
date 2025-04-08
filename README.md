@@ -13,7 +13,9 @@
 
 With expertise in cutting-edge technologies like HTML, CSS, JavaScript, React.js, React Native, Node.js, Angular 19, MongoDB, and more, I craft sleek, high-performing web and mobile applications tailored to user needs.
  </div>
+ 
 ---
+
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
@@ -21,7 +23,9 @@ With expertise in cutting-edge technologies like HTML, CSS, JavaScript, React.js
     <img src="https://skillicons.dev/icons?i=css,postgresql,supabase,html,firebase,mongodb,nextjs,mysql,php,laravel" /><br>
 </div>
 <br/>
+
 ---
+
 <h2 align="center">🤝 Let’s Build Together</h2>
 <br>
 <div align="center">
@@ -30,7 +34,9 @@ With expertise in cutting-edge technologies like HTML, CSS, JavaScript, React.js
 Feel free to reach out or explore my repositories below. Let’s make something amazing! 🌟
 </div>
 <br/>
+
 ---
+
 <h2 align="center">📫 Reach Out to Me</h2>
 <br>
 <div align="center"> 
@@ -41,7 +47,9 @@ Feel free to reach out or explore my repositories below. Let’s make something 
   </a>
 </div>
 <br/>
+      
 ---
+
 <div align="center">
 Thanks for stopping by! 🚀 
 Let's connect and create something extraordinary together! 🎉
