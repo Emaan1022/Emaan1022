@@ -1,12 +1,19 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Muqaddas+Rasheed+👨🏻‍💻;" />
 </h1>
-# 👩‍💻 **Muqaddas Rasheed** | Passionate Software Engineer 💻
 
-🔧 **Crafting Scalable, High-Performance Web & Mobile Apps**  
-🌱 **Continuous Learner** | **Tech Enthusiast** | **Problem Solver**  
+<h2 align="center">👩‍💻 **Muqaddas Rasheed** | Passionate Software Engineer 💻
+
+</h2>
+
+<div align="center">  
 
 Hello! I'm **Muqaddas Rasheed**, a dedicated **Software Engineer** from Pakistan, passionate about transforming ideas into seamless digital experiences. 🚀 Whether it's building modern web apps or robust mobile solutions, I thrive on delivering innovative solutions using the latest technologies.
+
+ 🌱 🔧 **Crafting Scalable, High-Performance Web & Mobile Apps**  
+🌱 **Continuous Learner** | **Tech Enthusiast** | **Problem Solver** 
+
+ </div>
 
 ---
 
