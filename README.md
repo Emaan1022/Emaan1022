@@ -40,8 +40,11 @@ Feel free to reach out or explore my repositories below. Let’s make something 
 <h2 align="center">📫 Reach Out to Me</h2>
 <br>
 <div align="center"> 
-- LinkedIn: [Muqaddas Rasheed](https://www.linkedin.com/in/muqaddas-rasheed-480b89247/)
-- Email: [muqaddasrasheedahmad@gmail.com](mailto:your-email@example.com)
+  <a href="mailto:muqaddasrasheedahmad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/[Muqaddas Rasheed](https://www.linkedin.com/in/muqaddas-rasheed-480b89247/)" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <br/>
