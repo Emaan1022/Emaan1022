@@ -30,7 +30,7 @@ With expertise in cutting-edge technologies like HTML, CSS, JavaScript, React.js
 <br>
 <div align="center">
 - 🌍 Open to **collaborations** on innovative projects.
-- 💬 Always happy to connect with like-minded professionals or anyone passionate about **coding**, **technology**, or **problem-solving**.
+- 💬 Always happy to connect with like-minded professionals or anyone passionate about <b> coding, technology, & problem-solving.</b>
 
 Feel free to reach out or explore my repositories below. Let’s make something amazing! 🌟
 </div>
@@ -40,10 +40,9 @@ Feel free to reach out or explore my repositories below. Let’s make something 
 ---
 <h2 align="center">📫 Reach Out to Me</h2>
 <br>
-<div align="center">
-    
-- **LinkedIn**: [Muqaddas Rasheed](https://www.linkedin.com/in/muqaddas-rasheed-480b89247/)
-- **Email**: [muqaddasrasheedahmad@gmail.com](mailto:your-email@example.com)
+<div align="center"> 
+**LinkedIn**: [Muqaddas Rasheed](https://www.linkedin.com/in/muqaddas-rasheed-480b89247/)
+**Email**: [muqaddasrasheedahmad@gmail.com](mailto:your-email@example.com)
 </div>
 
 <br/>
