@@ -30,7 +30,7 @@ With expertise in cutting-edge technologies like HTML, CSS, JavaScript, React.js
 <br>
 <div align="center">
 🌍 Open to collaborations on innovative projects.<br>
-💬 Always happy to connect with like-minded professionals or anyone passionate about <b> coding, technology, & problem-solving.</b><br>
+💬 Always happy to connect with like-minded professionals or anyone passionate about <b> coding, technology & problem-solving.</b><br>
 Feel free to reach out or explore my repositories below. Let’s make something amazing! 🌟
 </div>
 <br/>
