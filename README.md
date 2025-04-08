@@ -2,16 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Muqaddas+Rasheed+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">👩‍💻 **Muqaddas Rasheed** | Passionate Software Engineer 💻
+<h2 align="center">Passionate Software Engineer 💻 | PUCIT<br>
+ 🌱 🔧 Crafting Scalable, High-Performance Web & Mobile Apps <br>
+🌱 Continuous Learner | Tech Enthusiast | Problem Solver
 
 </h2>
 
 <div align="center">  
+🌱 I'm Muqaddas Rasheed – An innovative Software Engineer, specializing in Full Stack Web & Mobile Application Development. 🚀
 
-Hello! I'm **Muqaddas Rasheed**, a dedicated **Software Engineer** from Pakistan, passionate about transforming ideas into seamless digital experiences. 🚀 Whether it's building modern web apps or robust mobile solutions, I thrive on delivering innovative solutions using the latest technologies.
-
- 🌱 🔧 **Crafting Scalable, High-Performance Web & Mobile Apps**  
-🌱 **Continuous Learner** | **Tech Enthusiast** | **Problem Solver** 
+With expertise in cutting-edge technologies like HTML, CSS, JavaScript, React.js, React Native, Node.js, Angular 19, Express.js, MongoDB, and more, I craft sleek, high-performing web and mobile applications tailored to user needs.
 
  </div>
 
